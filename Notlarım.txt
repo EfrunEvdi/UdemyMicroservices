@@ -5,3 +5,4 @@
 -> Eventual Consistency: A microservisinin B microservisinin veri tutarlýðýný saðlamak için eðer ki her hangi bir t anýnda farklý kullanýcýlarýn farklý datalarý görmesi her hangi bir sorun teþkil etmiyorsa (Message Broker ile) bu yöntemi kullanabiliriz.
 
 18. Ders => MongoDB Patternlarýný araþtýr.
+36. Ders => Tekrar edilecek.
